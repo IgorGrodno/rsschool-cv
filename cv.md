@@ -24,8 +24,6 @@ Easy to teach, stress-resistant, I really want to connect my life with programmi
   * IIS
   * SSMS(SQL Server Management Studio)
 * Operating Systems:
- * Windows
- * Android
   * Windows
   * Android
 
