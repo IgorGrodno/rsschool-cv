@@ -4,4 +4,15 @@
   margin: 0 auto;
   align-items: center;
 }
-
+.rs-logo {
+  height: 300px;
+  width: 300px;
+}
+.footer-block {
+  display: flex;
+  justify-content: space-evenly;
+}
+.foto {
+  height: 300px;
+  width: 300px;
+}
