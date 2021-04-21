@@ -3,11 +3,8 @@
 Tel: +375 29 58 50 462  
 E-mail:5850462@mail.ru    
 [LinkedIn](https://www.linkedin.com/in/igor-matsiukevich-87978b184/)
-
 [GitHub](https://github.com/IgorGrodno)
-
-[bitBucket](https://bitbucket.org/IgorGrodno)
-
+[BitBucket](https://bitbucket.org/IgorGrodno)
 #### About me:
 Easy to teach, stress-resistant, I really want to connect my life with programming
 #### Skills:
