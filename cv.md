@@ -6,8 +6,6 @@ E-mail:5850462@mail.ru
 #### About me:
 Easy to teach, stress-resistant, I really want to connect my life with programming
 #### Skills:
-* Software control systems:
-   * GitHub
 * Database:
   * MS SQL (Basic)
 * Programming languages:
