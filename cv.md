@@ -13,7 +13,6 @@ Easy to teach, stress-resistant, I really want to connect my life with programmi
 * Programming languages:
   * C#
   * JavaScript(Basic)
-  * Java(Basic)
 * Technologies: 
   * ASP.NET
   * ASP.NET MVC
@@ -27,12 +26,11 @@ Easy to teach, stress-resistant, I really want to connect my life with programmi
   * Windows
   * Android
 
-#### Code examples:
-
-`Console.WriteLine("Hello world");`
 #### Experience:
 Unrevealed posts
 #### Education:
+* February 2021 - now: Rolling Scopes School  
+Course: JavaScript/Front-end Course
 * December 2019 - March 2019: Educational Center of the Hi-Tech Park   
 Course: Industrial Programming with ASP.NET by Epam
 * March 2018 - May 2018: EPAM SYSTEMS  
